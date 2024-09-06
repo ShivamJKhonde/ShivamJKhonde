@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Khonde</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamjkhonde&label=Profile%20views&color=0e75b6&style=flat" alt="shivamjkhonde" /> </p>
 

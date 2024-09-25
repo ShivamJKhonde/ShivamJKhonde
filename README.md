@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in **Cavista as a Fullstack Developer**
 
-- 💬 Ask me about **C#, HTML, CSS, JS, SQL**
+- 💬 Ask me about **C#, HTML, CSS, JS, REACT, MONGODB, SQL**
 
 - 📫 How to reach me **shivamkhonde@gmail.com**
 
